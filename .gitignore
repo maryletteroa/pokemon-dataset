@@ -1,0 +1,12 @@
+pokemons/*
+__pycache__*
+*.xlsx
+moves/*
+ablities/*
+types/*
+*.xlsx
+out/*
+abilities/*
+*.pbix
+pokemon_species/*
+dashboard/*
