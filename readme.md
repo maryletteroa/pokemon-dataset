@@ -18,5 +18,9 @@ And the CSV files that contained the cleaned data are outputted to this director
 ### Post
 I've talked about dashboarding this dataset in this blog post: [Pokemon Dashboard](https://maryletteroa.github.io/blog/2024/04/20/pokemon-dashboard.html)
 
+### Related
+
+[pokemon-legends-arceus-dataset](https://github.com/maryletteroa/pokemon-legends-arceus-dataset) repository
+
 ### Attribution
 Marylette Roa
